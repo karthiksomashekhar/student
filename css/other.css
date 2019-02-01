@@ -1,0 +1,31 @@
+/* ----- Footer Styling ----- */
+#main {
+	padding:12px 0 30px;
+	width: 1300px;
+	margin-left:2%;
+	background: white;
+	margin-top: 2%;
+	border: solid #A9A9A9;
+}
+
+#footer {
+	background: #CDCDCD;
+	  width:auto;   
+    border:1px #000 solid;
+    margin:20px auto;
+    padding:5px;
+    border-radius:1.5px;
+    -moz-border-radius:1.5px;
+    -webkit-border-radius:1.5px;    
+     height: 40px; 
+     margin-top: 50px;
+     
+}
+#footer h4 {
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0 0 21px 0;
+    color: #a80328;
+    
+}

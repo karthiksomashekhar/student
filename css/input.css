@@ -1,0 +1,51 @@
+input[type=text] {padding:5px; border:2px solid #FFFF; 
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+input[type=text]:focus {border-color:#333; }
+
+input[type=password] {padding:5px; border:2px solid #FFFF; 
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+input[type=password]:focus {border-color:#FFFF; }
+
+
+textarea {padding:5px; border:2px solid #FFFF; 
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+textarea:focus {border-color:#333; }
+
+select {padding:5px; border:2px solid #ccc; 
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+select:focus {border-color:#333; }
+
+file {padding:5px; border:2px solid #ccc; 
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+file {border-color:#333; }
+
+input[type=submit] {
+	padding:10px 30px; background:#A80329; border:0 none;
+cursor:pointer;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+font-size: large;
+color: white;
+font-weight: bold;
+}
+
+input[type=reset] {padding:10px 30px; background:#FA0101; border:0 none;
+cursor:pointer;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+font-size: large;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
